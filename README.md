@@ -1,2 +1,2 @@
-# resposta-da-atividade
-resposta da atividade
+# respostas-das-atividades
+respostas das atividades
