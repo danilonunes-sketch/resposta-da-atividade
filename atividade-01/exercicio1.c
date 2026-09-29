@@ -117,7 +117,8 @@ int main(void) {
     }
 
     // Liberacao de Memoria
-    if (bolas != NULL) free(bolas);
+    if (bolas != NULL)  
+    free(bolas); 
     liberarMatriz(matriz, linhasMatriz);
 
     CloseWindow();
