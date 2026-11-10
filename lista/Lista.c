@@ -1,3 +1,4 @@
+// atividade de lista duplamente encadeada.
 #include <stdio.h>
 #include <stdlib.h>
 
